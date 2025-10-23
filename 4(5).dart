@@ -1,5 +1,4 @@
 void main() {
-  // Create a list of 7 friend names
   List<String> friends = [
     'Aliza',
     'Juhi',
